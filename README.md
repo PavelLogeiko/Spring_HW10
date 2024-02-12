@@ -10,8 +10,11 @@
 
 Модульное
 
-![]()
+![1](https://github.com/PavelLogeiko/Spring_HW10/blob/main/images/1.png)
+
+![2](https://github.com/PavelLogeiko/Spring_HW10/blob/main/images/2.png)
+
 
 Интеграционное
 
-![]()
+![3](https://github.com/PavelLogeiko/Spring_HW10/blob/main/images/3.png)
